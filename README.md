@@ -67,7 +67,6 @@ Detailed reproduction steps, expected results, actual results, severity, priorit
 
 The Excel workbook contains:
 
-- Test Plan
 - Test Cases
 - Bug Reports
 - Test Summary
